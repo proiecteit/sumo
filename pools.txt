@@ -1,0 +1,14 @@
+"pool_list" :
+[
+	{
+		"pool_address" : "pool.sumokoin.com:5555", 
+		"wallet_address" : "Sumoo6iiEmVhBmY7XGgjpjPpDJgwGyG9y2ftVPjxjTebQhEPxSi4BELggTYpGLe2uSUiJ4MiwH52MEZ8K5zWo818fQMXngkxStE", 
+		"rig_id" : "", 
+		"pool_password" : "x", 
+		"use_nicehash" : false, 
+		"use_tls" : false, 
+		"tls_fingerprint" : "", 
+		"pool_weight" : 1 
+	},
+],
+"currency" : "sumokoin",
